@@ -80,6 +80,7 @@ span{
 {
     margin-left: 50px;
     width:25vw;
+    border-radius: 80%;
     animation: floatImage 4s ease-in-out infinite;
     
 }
@@ -169,6 +170,7 @@ span{
 {
     margin-left: 50px;
     width:25vw;
+    border-radius: 100%;
     animation: floatImage 4s ease-in-out infinite;
 }
 @keyframes floatImage
